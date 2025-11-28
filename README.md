@@ -1,5 +1,5 @@
 
-## 3. README for Markov Text Generator + Hash Tables (Lab 7)
+## README for Markov Text Generator + Hash Tables (Lab 7)
 
 
 ```markdown
